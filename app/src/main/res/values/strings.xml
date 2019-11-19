@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Interval Training App</string>
+    <string name="Welcomemessage">Welcome to the interval training app!</string>
+    <string name="Instruction">Please enter the values that you wish to have</string>
+    <string name="Timer">Timer:</string>
+    <string name="H">H</string>
+    <string name="M">M</string>
+    <string name="S">S</string>
+    <string name="Start">START!</string>
+    <string name="andfor">And for:</string>
+    <string name="pausetimerafter">Pause timer after:</string>
+    <string name="beepafter">Beep after set time interval:</string>
+    <string name="swipeup">Swipe up or point device upright to stop the timers, and use the back button to change settings</string>
+
+
+</resources>
